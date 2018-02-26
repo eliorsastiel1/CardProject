@@ -1,0 +1,73 @@
+/* add your CSS here */
+
+.DolphinCard{
+	font-family: Arial, Helvetica, sans-serif;
+	width: 400px;
+	text-align: center;
+	border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;	
+	background-color: #B8F4F2;
+	position: relative;
+	left: 10%;
+}
+
+.title{
+	color: #9393E6;	
+	border: 1px solid black;
+	box-shadow: 5px 5px #888888;
+	font-size: 150%;
+	background-color: #DEEDF9;
+}
+
+.ImgSection{
+		border: 1px solid black;
+		position: relative;
+		background-color: #DEEDF9;
+		padding: 10px;
+		box-shadow: 5px 5px #888888;
+	}
+
+.img{
+	width: 300px;
+	padding: 10px;
+	position: relative;
+	
+}
+
+
+.Dolphin_Description{	
+	text-align: center;
+	border: 1px solid;
+    padding: 10px;
+	box-shadow: 5px 5px #888888;
+	background-color: #DEEDF9
+}
+
+#fact{
+	font-style: italic;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 150%; 
+}
+
+.list{
+	text-align: left;
+	list-style-type: none;
+}
+
+.Bold{
+	font-weight: bold;
+}
+
+#Information{
+	text-align: left;
+}
+
+a{
+	background-color: yellow;
+}
+
+a:hover{
+	background-color: red;
+	color: white;
+}
